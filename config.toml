@@ -6,7 +6,7 @@ publishdir = "/var/www/blog"
 
 [params]
     favicon = "favicon.ico"
-    featured_image = "/images/hero/fundalytica.png"
+    featured_image = "/images/hero/fundalytica.jpg"
     show_reading_time = true
     post_content_classes = "avenir bg-near-white"
     instagram = "https://www.instagram.com/fundalytica/"
