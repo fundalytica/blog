@@ -4,14 +4,26 @@ title = "The Fundalytica Blog"
 theme = "ananke"
 publishdir = "/var/www/blog"
 
-SectionPagesMenu = "main"
-googleAnalytics = ""
+# googleAnalytics = ""
+
 enableRobotsTXT = true
 
 [sitemap]
     changefreq = "monthly"
     priority = 0.5
     filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Articles"
+    url = "/posts"
+    weight = 1
+  [[menu.main]]
+    identifier = "www"
+    name = "fundalytica.com"
+    url = "https://www.fundalytica.com"
+    weight = 2
 
 [params]
     favicon = "favicon.ico"
@@ -23,4 +35,4 @@ enableRobotsTXT = true
     # twitter = "https://twitter.com/fundalytica"
 
 # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
-# https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_skins.css    
+# https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_skins.css
