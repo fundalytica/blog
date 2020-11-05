@@ -1,6 +1,8 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+
+baseURL = "https://blog.fundalytica.com/"
+
+title = "The Fundalytica Blog"
 
 theme = "ananke"
 
