@@ -4,12 +4,22 @@ title = "The Fundalytica Blog"
 theme = "ananke"
 publishdir = "/var/www/blog"
 
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
 [params]
     favicon = "favicon.ico"
     featured_image = "/images/hero/fundalytica.jpg"
     show_reading_time = true
     post_content_classes = "avenir bg-near-white"
     instagram = "https://www.instagram.com/fundalytica/"
+    medium = "https://medium.com/fundalytica/"
     # twitter = "https://twitter.com/fundalytica"
 
 # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
