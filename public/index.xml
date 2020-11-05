@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The IPO Fund - Outperform The Index</title>
+      <link>/ipo-fund/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ipo-fund/</guid>
+      <description>We have decided to start a new fund that focuses on IPO stocks. We will call the fund &amp;ldquo;The IPO Fund&amp;rdquo;.
+We decided to build this fund after studying 10 years of IPO data and came to the following conclusions:
+  If we had invested in every stock that we knew about that went public since 2010, we would have outperformed the index (S&amp;amp;P500) by more than 130%.
+  If we were more selective and invested in stocks that not only we knew about but we also felt confident about, we would have outperformed the index by more than 360%.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Fundalytica</title>
+      <link>/welcome/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>Fundalytica was created with two goals in mind:
+  Find high performing assets and strategies through research.
+  Build investing tools that greatly improve investing decisions.
+  Stay tuned for exciting updates.
+Written by Fotios Dotcom for Fundalytica
+You can find this article on: Fundalytica Blog - Substack - Medium</description>
+    </item>
+    
+  </channel>
+</rss>
