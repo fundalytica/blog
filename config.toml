@@ -1,9 +1,16 @@
-languageCode = "en-us"
-
 baseURL = "https://blog.fundalytica.com/"
-
+languageCode = "en-us"
 title = "The Fundalytica Blog"
-
 theme = "ananke"
-
 publishdir = "/var/www/blog"
+
+[params]
+    favicon = "favicon.ico"
+    featured_image = "/images/hero/fundalytica.png"
+    show_reading_time = true
+    post_content_classes = "avenir bg-near-white"
+    instagram = "https://www.instagram.com/fundalytica/"
+    # twitter = "https://twitter.com/fundalytica"
+
+# https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
+# https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_skins.css    
