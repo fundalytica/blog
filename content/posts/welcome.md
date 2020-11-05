@@ -1,6 +1,7 @@
 ---
 title: Welcome to Fundalytica 📈
 date: 2020-11-01T00:00:00Z
+featured_image: /images/hero/welcome.jpg
 ---
 
 Fundalytica was created with two goals in mind:

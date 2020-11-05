@@ -1,6 +1,7 @@
 ---
 title: The IPO Fund - Outperform The Index
 date: 2020-11-04T00:00:00Z
+featured_image: /images/hero/ipo-fund.jpg
 ---
 
 We have decided to start a new fund that focuses on IPO stocks. We will call the fund **"The IPO Fund"**.
@@ -9,7 +10,7 @@ We decided to build this fund after studying 10 years of IPO data and came to th
 - If we had invested in every stock that we **knew about** that went public since 2010, we would have outperformed the index (S&P500) by more than 130%.
 - If we were more selective and invested in stocks that not only we knew about but we also **felt confident about**, we would have outperformed the index by more than 360%.
 - If we leave Tesla out we would have outperformed the index by 70% by investing into all known stocks and 200% by picking from the known stocks.
-![](https://blog.fundalytica.com/images/the-ipo-fund/research-summary.jpg)
+![](https://blog.fundalytica.com/images/post/ipo-fund/research-summary.jpg)
 *We will present our findings in more detail in the future. Make sure to subscribe on [fundalytica.com](https://www.fundalytica.com) to receive an update.*
 
 Moving forward we will use the following strategy for The IPO Fund:
