@@ -1,6 +1,8 @@
 baseURL = "https://blog.fundalytica.com/"
 languageCode = "en-us"
 title = "The Fundalytica Blog"
+copyright = "© Fundalytica 2019 - ∞"
+
 theme = "ananke"
 publishdir = "/var/www/blog"
 
@@ -33,6 +35,7 @@ enableRobotsTXT = true
     instagram = "https://www.instagram.com/fundalytica/"
     medium = "https://medium.com/fundalytica/"
     # twitter = "https://twitter.com/fundalytica"
+    rss = "https://blog.fundalytica.com/index.xml"
 
 # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
 # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_skins.css
