@@ -1,7 +1,7 @@
 baseURL = "https://blog.fundalytica.com/"
 languageCode = "en-us"
 title = "The Fundalytica Blog"
-copyright = "© Fundalytica 2019 - ∞"
+copyright = "Fundalytica 2019 - ∞"
 
 theme = "ananke"
 publishdir = "/var/www/blog"
